@@ -7,12 +7,12 @@ const Navbar = () => {
       <div className="max-w-7xl mx-auto px-4 py-3">
         <div className="flex justify-between items-center">
           <div className="flex items-center">
-            <img src="/images/PortfolioLogo.jpg" alt="Logo" className="h-12 w-12 mr-2 rounded-full" />
+            <img src="./images/PortfolioLogo.jpg" alt="Logo" className="h-12 w-12 mr-2 rounded-full" />
             <span className="text-white font-semibold text-2xl px-6">Shashi Anand Sharma</span>
           </div>
           <div className="hidden md:block">
             <ul className="flex space-x-7">
-              <NavItem href="/homepage">Home</NavItem>
+              <NavItem href="/">Home</NavItem>
               <NavItem href="/about">About</NavItem>
               <NavItem href="/skills">Skills</NavItem>
               <NavItem href="/contact">Contact Me</NavItem>

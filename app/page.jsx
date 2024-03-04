@@ -16,7 +16,7 @@ const homepage = () => {
                 <div className="relative h-screen">
                     {/* Background Image */}
                     <img
-                        src="./images/background.jpg"
+                        src="/Images/background.jpg"
                         alt="Background"
                         className="absolute inset-0 object-cover w-full h-full"
                     />

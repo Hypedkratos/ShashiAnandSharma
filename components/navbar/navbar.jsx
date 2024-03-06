@@ -81,7 +81,7 @@ const MobileMenu = () => {
       {isOpen && (
         <div className="absolute top-12 right-0 bg-gray-800 w-48 py-2 rounded-lg shadow-lg">
           <ul className="space-y-2">
-            <NavItem href="/homepage">Home</NavItem>
+            <NavItem href="/">Home</NavItem>
             <NavItem href="/about">About</NavItem>
             <NavItem href="/skills">Skills</NavItem>
             <NavItem href="/contact">Contact Me</NavItem>

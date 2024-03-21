@@ -4,7 +4,7 @@ import Navbar from "@/components/navbar/navbar"
 
 const about = () => {
     const downloadResume = () => {
-        window.location.href='/resume/Resume(Shashi).pdf';
+        window.location.href='/resume/Shashi Anand Sharma(Resume).pdf';
     }
 
     return (

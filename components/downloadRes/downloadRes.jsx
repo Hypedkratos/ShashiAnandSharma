@@ -3,7 +3,7 @@ const DownloadResumeButton = () => {
     <div>
       <a
         href="#"
-        download="/resume/Shashi-Anand-Sharma(Frontend-Resume).pdf"
+        download="/resume/Shashi-Anand-Sharma.pdf"
         target="_blank"
         rel="noopener noreferrer"
         className="bg-blue-500 hover:bg-blue-700 text-white font-bold py-2 px-4 rounded transform transition duration-200 hover:scale-105"

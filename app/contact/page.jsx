@@ -53,7 +53,7 @@ const contact = () => {
                 <a href="https://www.facebook.com/shashi.anand.39566905?sfnsn=wiwspwa&mibextid=RUbZ1f" target="_blank" rel="noopener noreferrer">
                     <img src="/Icons/facebook.png" alt="Facebook" className="w-10 h-10" />
                 </a>
-                <a href="https://www.linkedin.com/in/shashi-anand-sharma-542662220" target="_blank" rel="noopener noreferrer">
+                <a href="https://www.linkedin.com/in/inshashi5173/" target="_blank" rel="noopener noreferrer">
                     <img src="/Icons/linkedin.png" alt="LinkedIn" className="w-10 h-10" />
                 </a>
                 <a href="https://github.com/Hypedkratos" target="_blank" rel="noopener noreferrer">
